@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+#cont {
+    background-color: beige;
+    overflow: hidden;
+}
+.text1 {
+    background-color: khaki;
+    color: black;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    float: right;
+    padding-left: 25%;
+    padding-right: 25%;
+    border: solid black;
+    text-align: center;
+}
+.text2 {
+    color: red;
+    background-color: beige;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 2%;
+    padding-right: 2%;
+    border:solid black;
+}
+.text {
+    color: red;
+    text-decoration: underline;
+}
+.PI {
+    text-decoration: none;
+    color: red;
+}
+#piu {
+    overflow: hidden;
+    border: solid black;
+    background-color: black;
+}
+.im {
+    width: 10;
+}
+.linx {
+    text-align: center;
+    margin-right: 90%;
+    box-sizing: border-box;
+    background-color: red;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    color: blue;
+    text-decoration: none;
+    border: solid black;
+    border-radius: 5px;
+}
+.jipsu {
+    color: red;
+    margin: 0%;
+    background-color: beige;
+}
+.lop {
+    text-align: center;
+    text-decoration: underline;
+    color: red;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+
+}
+.linxu {
+    text-align: center;
+    margin-right: 90%;
+    box-sizing: border-box;
+    background-color: red;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    color: blue;
+    text-decoration: none;
+    border: solid black;
+    border-radius: 5px;
+}
+.rip {
+    margin-left: 2%;
+    margin-bottom: 3%;
+    text-decoration: none;
+}
+.imge {
+    height: 216px;
+    width: 195px;
+}
+.lolu {
+    text-decoration: none;
+    color: white;
+}
+.xl{
+    margin: 0px;
+    border: solid black;
+}
+.mingu{
+    margin-left: 0.1%;
+    margin-right: 0.1%;
+    padding-left: 2%;
+    padding-bottom: 2%;
+    background-color: white;
+}
+.lug{
+    padding-left: 2%;
+    background-color: white;
+}
+.conti{
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-bottom: 20%;
+    background-color: white;
+}
